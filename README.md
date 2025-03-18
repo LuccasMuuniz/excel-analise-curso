@@ -22,6 +22,10 @@ Ação sugerida: Investir em campanhas regionais para aumentar a presença nessa
 ##### Gênero
 A distribuição entre homens e mulheres é equilibrada, demonstrando boa inclusão nos cursos.
 
+##### Status X Estado Civil
+Dentre os pendentes os casados detem 48% o que indica que possuem mais dificuldades em completar os cursos
+Ação sugerida : Propor oferecer recursos ou workshops focados em gestão de tempo e equilíbrio entre vida pessoal e estudos para os casados.
+
 ##### Matrículas por Mês 
 Observa-se um aumento nas matrículas no início do ano e perto do segundo semestre.
 Ação sugerida: Planejar campanhas promocionais nesses períodos para atualizar as matrículas.
